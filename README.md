@@ -2,8 +2,7 @@
 
 Simple project aiming to evaluate how probability of percolation (geting from the "top" of the matrix to the "bottom" by jumping from cell to cell, 
 diagonal movement not allowed) is affected by changes to probability of individual cell opening and how it compare to probability of percolation predicted from the formula: Probability(percolation)= 1-(1-p^n)^n.
-p - probability of individual cell opening
-n - size of a side of a matrics
+p - probability of individual cell opening,n - size of a side of a matrics
 
 ### Instruction/workflow:
 1. Run percolation_main.py file
