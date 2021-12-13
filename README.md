@@ -1,6 +1,6 @@
 # percolation-with-stochastics
 
-Simple project aiming to evaluate how probability of percolation (geting from the "top" of the matrix to the "bottom" by jumbing from cell to cell, 
+Simple project aiming to evaluate how probability of percolation (geting from the "top" of the matrix to the "bottom" by jumping from cell to cell, 
 diagonal movement not allowed) is affected by changes to probability of individual cell opening.
 
 ### Instruction/workflow:
